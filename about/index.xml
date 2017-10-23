@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All About me on Vargatron</title>
-    <link>https://vtron.github.io/about/</link>
+    <link>http://www.vargatron.com/about/</link>
     <description>Recent content in All About me on Vargatron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
     
-	<atom:link href="https://vtron.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.vargatron.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

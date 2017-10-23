@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vargatron</title>
-    <link>https://vtron.github.io/tags/</link>
+    <link>http://www.vargatron.com/tags/</link>
     <description>Recent content in Tags on Vargatron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vtron.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.vargatron.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
