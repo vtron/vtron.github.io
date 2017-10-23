@@ -787,7 +787,7 @@ aside .heading {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    /*background-image: url(../img/map-image.png);*/
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -954,15 +954,23 @@ ul.social-buttons li a:active {
 .portfolio-modal ul  {
     list-style-type: square;
     margin-top: 20px;
+    margin-left: 15px;
     margin-bottom:20px;
     padding: 0px;
 }
 
 .portfolio-modal .details {
     list-style-type:none;
+    margin-left: 0px;
 }
+
+.portfolio-modal .details li {
+    margin-bottom: 0px;
+}
+
 .portfolio-modal ul li {
     text-align:left;
+    margin-bottom: 5px;
 }
 
 .portfolio-modal .close-modal {
