@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vargatron</title>
-    <link>https://www.vargatron.com/</link>
+    <link>https://vtron.github.io/</link>
     <description>Recent content on Vargatron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://www.vargatron.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vtron.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Art Institute of Chicago</title>
-      <link>https://www.vargatron.com/portfolio/aic/</link>
+      <link>https://vtron.github.io/portfolio/aic/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://www.vargatron.com/portfolio/aic/</guid>
+      <guid>https://vtron.github.io/portfolio/aic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art Lens Exhibition</title>
-      <link>https://www.vargatron.com/portfolio/cma/</link>
+      <link>https://vtron.github.io/portfolio/cma/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://www.vargatron.com/portfolio/cma/</guid>
+      <guid>https://vtron.github.io/portfolio/cma/</guid>
       <description>   </description>
     </item>
     
